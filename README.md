@@ -16,7 +16,3 @@ Project Launcher uses a number of open source project to work properly:
 - Android SDK Build Tools 17 - Android Software Development Kit
 - Java SDK 1.8 - Java Development Toolkit
 - Gradle 2.1.2 - Build Automation
-
-## License
-
-MIT
